@@ -5,8 +5,8 @@ public:
         int right = height.size() - 1;
         int maxArea = 0; 
         while (left < right) {
-            int area = (right - left) * std::min(height[left], height[right]);
-            maxArea = std::max(maxArea, area);
+            int area = (right - left) * min(height[left], height[right]);
+            maxArea = max(maxArea, area);
             if (height[left] < height[right]){
                 left++;
             }
