@@ -3,16 +3,16 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> nums = [1,1,0,1,1,1]
+<pre><strong>Input:</strong> nums = [1,1,0,1,1,1]
 <strong>Output:</strong> 3
 <strong>Explanation:</strong> The first two digits or the last three digits are consecutive 1s. The maximum number of consecutive 1s is 3.
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre style="position: relative;"><strong>Input:</strong> nums = [1,0,1,1,0,1]
+<pre><strong>Input:</strong> nums = [1,0,1,1,0,1]
 <strong>Output:</strong> 2
-<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre>
+</pre>
 
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
